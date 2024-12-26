@@ -1,3 +1,9 @@
+## ignore pictures jpg/png I copied to avoid copyright issues
+*.jpg
+*.png
+## also don't bother with the final pdf
+*.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
