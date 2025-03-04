@@ -1,9 +1,3 @@
-## ignore pictures jpg/png I copied to avoid copyright issues
-*.jpg
-*.png
-## also don't bother with the final pdf
-*.pdf
-
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -17,6 +11,7 @@
 *.cb
 *.cb2
 .*.lb
+*.pdf
 
 ## Intermediate documents:
 *.dvi
@@ -32,7 +27,6 @@
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
-*.bbl-SAVE-ERROR
 *.bcf
 *.blg
 *-blx.aux
